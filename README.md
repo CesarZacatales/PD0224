@@ -1,1 +1,1 @@
-# PD0224
+# Programación declarativa ciclo 02_2024
